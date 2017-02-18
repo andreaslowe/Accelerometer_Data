@@ -2,11 +2,19 @@
 
 ##NOTE: Original dataset code book and licensing info is copied at the end of this document
 
-- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-- Triaxial Angular velocity from the gyroscope. 
+##The tidy data set contains the following variables:
+  ##Activity - there are 6 activites that the subject performed during the measurements: laying, sitting, standing, walking, 
+  ##walking downstairs, and walking upstairs. These are listed by name in the first column.
+  
+  ##Subject ID - identifies the subject by their id, from 1 to 30.
+  
+  ##The remaioning variables give either the mean or standard deviation for measurements in the x, y, and z planes from the following
+      ##(and are listed my name in the columns):
+    ##- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+    ##- Triaxial Angular velocity from the gyroscope.
+ 
 
-
-
+##Original code book:
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0

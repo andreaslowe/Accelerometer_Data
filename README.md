@@ -1,4 +1,4 @@
-# Accelerometer_Data
+# Data Cleaning Script
 Script for tidying the accelerometer study data for the Coursera Data Cleaning Project
 
 ## NOTE: The script will run as is, with no input needed, as long as the UCI HAR Dataset folder is in the working directory.

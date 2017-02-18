@@ -12,3 +12,4 @@ Script for tidying the accelerometer study data for the Coursera Data Cleaning P
 ## 5. Create the tidy data set which contains the average of each variable for each activity and subject (using the dylyr library)
 ## 6. Write the tidy data set to a text file
 
+
